@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
 class TampilanTablet extends StatelessWidget {
-  const TampilanTablet({Key key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

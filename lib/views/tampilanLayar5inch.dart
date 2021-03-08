@@ -2,8 +2,6 @@ import 'package:dotted_border/dotted_border.dart';
 import 'package:flutter/material.dart';
 
 class TampilanLayar5inch extends StatelessWidget {
-  const TampilanLayar5inch({Key key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     Orientation orientation = MediaQuery.of(context).orientation;
